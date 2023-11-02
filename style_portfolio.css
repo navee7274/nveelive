@@ -1,0 +1,48 @@
+h4 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: var(--fs-100);
+  color: rgb(177, 0, 0);
+}
+
+.card_wrapper * {
+  background-color: unset;
+}
+
+.card_wrapper {
+  background-color: rgb(245, 245, 245);
+  width: 100%;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+  box-shadow: 2px 2px 5px rgb(202, 202, 202);
+}
+
+.img_wrapper {
+  margin-bottom: 1rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.img_wrapper h4 {
+  align-self: center;
+  margin-block: 0.8rem;
+}
+
+.img_wrapper img {
+  width: 100%;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+
+.text_wrapper {
+  border-radius: 1rem;
+  padding-block: 1rem;
+  padding-inline: 1rem;
+}
+
+.text_wrapper p {
+  margin: 0;
+}

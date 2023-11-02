@@ -1,0 +1,35 @@
+.say_hi,
+.say_hi * {
+  background-color: unset;
+}
+
+.say_hi * {
+  position: relative;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+.say_hi p {
+  left: 4px;
+  top: 17px;
+  font-size: 26px;
+}
+
+.say_hi h2 {
+  left: 3px;
+  bottom: 15px;
+  font-size: 26px;
+}
+
+.nameNV {
+  display: inline-block;
+  margin: 0;
+  left: 0.025em;
+  font-size: var(--fs-500);
+}
+
+.wlcmwrd {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: var(--fs-400);
+}
