@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /portfolio/
 
-Sitemap: https://www.nveelive.com/sitemap.xml
+Sitemap: https://www.naveenviraj.com/sitemap.xml
